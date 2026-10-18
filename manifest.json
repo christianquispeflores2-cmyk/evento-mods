@@ -24,6 +24,11 @@
       "sha256": "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
     },
     {
+      "path": "mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/OctoLib-FABRIC-0.5.0.1%2B1.20.1.jar",
+      "sha256": "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51"
+    },
+    {
       "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
       "sha256": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac"

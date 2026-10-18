@@ -7,6 +7,11 @@
       "path": "mods/fabric-api-0.92.12+1.20.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/fabric-api-0.92.12%2B1.20.1.jar",
       "sha256": "4197ff4fbdac13cffccd267c1bc59e9fbabb2b5683a9d5f8023f4b5ea16a1c1e"
+    },
+    {
+      "path": "mods/immersive-hotbar-1.2.2-1.20-1.20.4.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersive-hotbar-1.2.2-1.20-1.20.4.jar",
+      "sha256": "303ba73676d4dac3eff462af4f356d2a168e277817b4a26a8e73b1892906beea"
     }
   ]
 }

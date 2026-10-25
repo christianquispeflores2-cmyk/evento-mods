@@ -1,37 +1,77 @@
 {
-  "minecraft": "1.20.1",
+  "minecraft": "1.21.1",
   "loader": "fabric",
   "ram_mb": 3072,
   "files": [
     {
-      "path": "mods/fabric-api-0.92.12+1.20.1.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/fabric-api-0.92.12%2B1.20.1.jar",
-      "sha256": "4197ff4fbdac13cffccd267c1bc59e9fbabb2b5683a9d5f8023f4b5ea16a1c1e"
+      "path": "mods/architectury-13.0.11-fabric.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/architectury-13.0.11-fabric.jar",
+      "sha256": "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd"
     },
     {
-      "path": "mods/immersive-hotbar-1.2.2-1.20-1.20.4.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersive-hotbar-1.2.2-1.20-1.20.4.jar",
-      "sha256": "303ba73676d4dac3eff462af4f356d2a168e277817b4a26a8e73b1892906beea"
+      "path": "mods/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
+      "sha256": "2d27dfa73866ff6af7e302778738668509824c8f0a8b4b49ebd6f591ab7d5893"
     },
     {
-      "path": "mods/ImmersiveUI-FABRIC-0.3.0.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ImmersiveUI-FABRIC-0.3.0.jar",
-      "sha256": "9079b5c5101c3c835c88d78cefe8fbb92ca1af1db2eee3051ef3c5fb5182f880"
+      "path": "mods/entityculling-fabric-1.11.3-mc1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/entityculling-fabric-1.11.3-mc1.21.1.jar",
+      "sha256": "9b06f16803071299d1aa2ade4d5539749fdfaddba28b6b9350dac9876eead1a5"
     },
     {
-      "path": "mods/modmenu-7.2.2.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/modmenu-7.2.2.jar",
-      "sha256": "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+      "path": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/fabric-api-0.116.17%2B1.21.1.jar",
+      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
     },
     {
-      "path": "mods/OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/OctoLib-FABRIC-0.5.0.1%2B1.20.1.jar",
-      "sha256": "cfa75c8b7ca08a175332ea66a427e95748389de019a6fcf7fc5852b104ffcc51"
+      "path": "mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
+      "sha256": "d76aa3215ad06c8bbda8a011e482dd7a57ba5c7a0a0f8a1995ec41e39cf53efa"
     },
     {
-      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
-      "sha256": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac"
+      "path": "mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
+      "sha256": "772abf8195a7b97455df8457e42a354196d138c7e9260ea0cd7c08d9471871ac"
+    },
+    {
+      "path": "mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
+      "sha256": "46f2f450743e1c64a3ffbe4bef4211b2e9e6813401d29a284492ca210086df53"
+    },
+    {
+      "path": "mods/ImmersiveUI-FABRIC-0.3.3+1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ImmersiveUI-FABRIC-0.3.3%2B1.21.1.jar",
+      "sha256": "2d6c41126529f45e968813e50ea9a61a6b47c2976a7cd754fb5f5e400afcd582"
+    },
+    {
+      "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
+    },
+    {
+      "path": "mods/OctoLib-FABRIC-0.6.2+1.21.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/OctoLib-FABRIC-0.6.2%2B1.21.jar",
+      "sha256": "73dc2af050c46a1501421593296570ec6dcb3824927fbff9c44ac032e5548da5"
+    },
+    {
+      "path": "mods/prosafiomuerte-4.0.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafiomuerte-4.0.1.jar",
+      "sha256": "c4462cc0d7541379756486cbdc0db9fa5a14358c8c82e9753283d0b3b348a8f9"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d"
+    },
+    {
+      "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/txnilib-fabric-1.0.24-1.21.1.jar",
+      "sha256": "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+      "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"
     }
   ]
 }

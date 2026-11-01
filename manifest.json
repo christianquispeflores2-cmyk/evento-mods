@@ -99,11 +99,6 @@
       "sha256": "73dc2af050c46a1501421593296570ec6dcb3824927fbff9c44ac032e5548da5"
     },
     {
-      "path": "mods/prosafiomuerte-4.0.2.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafiomuerte-4.0.2.jar",
-      "sha256": "aa8783c1cd7e4a47d0df0765de79de40ec6a154c90b8663d58ac1b50426b00a8"
-    },
-    {
       "path": "mods/prosafiomuerte-4.0.3.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafiomuerte-4.0.3.jar",
       "sha256": "3f1806a00116faafbf5a827309dc66cea695d6d9abb0a349bee731a30d8cccf5"

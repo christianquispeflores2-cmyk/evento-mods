@@ -6,152 +6,188 @@
     {
       "path": "mods/aquamirae-fabric-1.21.1-7.2.13.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/aquamirae-fabric-1.21.1-7.2.13.jar",
-      "sha256": "00e9034428f5f12b0b1cf0efdaacb71b465a1a2cb05bdf4b9fa1304a8a84a48a"
+      "sha256": "00e9034428f5f12b0b1cf0efdaacb71b465a1a2cb05bdf4b9fa1304a8a84a48a",
+      "size": 26110551
     },
     {
       "path": "mods/architectury-13.0.11-fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/architectury-13.0.11-fabric.jar",
-      "sha256": "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd"
+      "sha256": "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd",
+      "size": 600921
     },
     {
       "path": "mods/balm-fabric-1.21.1-21.0.63.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/balm-fabric-1.21.1-21.0.63.jar",
-      "sha256": "4c3604961b74e9cbc91efb1a93daa2f4e55354a46afc93cb74f0de543fd86391"
+      "sha256": "4c3604961b74e9cbc91efb1a93daa2f4e55354a46afc93cb74f0de543fd86391",
+      "size": 809717
     },
     {
       "path": "mods/BCLibRemastered-30.5.6.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/BCLibRemastered-30.5.6.jar",
-      "sha256": "d3af2962ddcffb72070b3b95bc844afed63f6d81d2230076a2c0e6acce9b2f17"
+      "sha256": "d3af2962ddcffb72070b3b95bc844afed63f6d81d2230076a2c0e6acce9b2f17",
+      "size": 1627443
     },
     {
       "path": "mods/BetterNetherRemastered-30.5.6.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/BetterNetherRemastered-30.5.6.jar",
-      "sha256": "4f54c502dda2edea50cfd3cfa6696ac8eff8036de85552f8f4853ccff5f60f0c"
+      "sha256": "4f54c502dda2edea50cfd3cfa6696ac8eff8036de85552f8f4853ccff5f60f0c",
+      "size": 23070844
     },
     {
       "path": "mods/cloth-config-15.0.140-fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/cloth-config-15.0.140-fabric.jar",
-      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "size": 1157166
     },
     {
       "path": "mods/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
-      "sha256": "2d27dfa73866ff6af7e302778738668509824c8f0a8b4b49ebd6f591ab7d5893"
+      "sha256": "2d27dfa73866ff6af7e302778738668509824c8f0a8b4b49ebd6f591ab7d5893",
+      "size": 283281384
     },
     {
       "path": "mods/entityculling-fabric-1.11.3-mc1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/entityculling-fabric-1.11.3-mc1.21.1.jar",
-      "sha256": "9b06f16803071299d1aa2ade4d5539749fdfaddba28b6b9350dac9876eead1a5"
+      "sha256": "9b06f16803071299d1aa2ade4d5539749fdfaddba28b6b9350dac9876eead1a5",
+      "size": 1519243
     },
     {
       "path": "mods/fabric-api-0.116.17+1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/fabric-api-0.116.17%2B1.21.1.jar",
-      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800"
+      "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
+      "size": 2452735
     },
     {
       "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-      "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
+      "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
+      "size": 633065
     },
     {
       "path": "mods/fragmentum-5.4.0+1.21.1-fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/fragmentum-5.4.0%2B1.21.1-fabric.jar",
-      "sha256": "8e006da47e01dad1201177af4d8d0e7e6f1c9362d4bb7ba8631230d1eb1b52ae"
+      "sha256": "8e006da47e01dad1201177af4d8d0e7e6f1c9362d4bb7ba8631230d1eb1b52ae",
+      "size": 9770655
     },
     {
       "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/geckolib-fabric-1.21.1-4.9.3.jar",
-      "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0"
+      "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
+      "size": 664463
     },
     {
       "path": "mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersive-hotbar-1.2.2-1.21-1.21.1.jar",
-      "sha256": "d76aa3215ad06c8bbda8a011e482dd7a57ba5c7a0a0f8a1995ec41e39cf53efa"
+      "sha256": "d76aa3215ad06c8bbda8a011e482dd7a57ba5c7a0a0f8a1995ec41e39cf53efa",
+      "size": 124688
     },
     {
       "path": "mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
-      "sha256": "772abf8195a7b97455df8457e42a354196d138c7e9260ea0cd7c08d9471871ac"
+      "sha256": "772abf8195a7b97455df8457e42a354196d138c7e9260ea0cd7c08d9471871ac",
+      "size": 915260
     },
     {
       "path": "mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
-      "sha256": "46f2f450743e1c64a3ffbe4bef4211b2e9e6813401d29a284492ca210086df53"
+      "sha256": "46f2f450743e1c64a3ffbe4bef4211b2e9e6813401d29a284492ca210086df53",
+      "size": 1946502
     },
     {
       "path": "mods/ImmersiveUI-FABRIC-0.3.3+1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ImmersiveUI-FABRIC-0.3.3%2B1.21.1.jar",
-      "sha256": "2d6c41126529f45e968813e50ea9a61a6b47c2976a7cd754fb5f5e400afcd582"
+      "sha256": "2d6c41126529f45e968813e50ea9a61a6b47c2976a7cd754fb5f5e400afcd582",
+      "size": 211187
     },
     {
       "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
-      "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
+      "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c",
+      "size": 471258
     },
     {
       "path": "mods/MutantMonsters-v21.1.1-1.21.1-Fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/MutantMonsters-v21.1.1-1.21.1-Fabric.jar",
-      "sha256": "415316ecde31b6fa81204225615d460fe6fa76ee6c4f583ed28ff814326b233b"
+      "sha256": "415316ecde31b6fa81204225615d460fe6fa76ee6c4f583ed28ff814326b233b",
+      "size": 1318293
     },
     {
       "path": "mods/OctoLib-FABRIC-0.6.2+1.21.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/OctoLib-FABRIC-0.6.2%2B1.21.jar",
-      "sha256": "73dc2af050c46a1501421593296570ec6dcb3824927fbff9c44ac032e5548da5"
+      "sha256": "73dc2af050c46a1501421593296570ec6dcb3824927fbff9c44ac032e5548da5",
+      "size": 543254
     },
     {
-      "path": "mods/prosafiomuerte-4.0.3.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafiomuerte-4.0.3.jar",
-      "sha256": "3f1806a00116faafbf5a827309dc66cea695d6d9abb0a349bee731a30d8cccf5"
+      "path": "mods/prosafio3-menu-1.0.0.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafio3-menu-1.0.0.jar",
+      "sha256": "c13074c6544e54a2202a583e6b64fd1b8ec5316ff730ca1c42f6d5daed289d2c",
+      "size": 758681
+    },
+    {
+      "path": "mods/prosafiomuerte-4.0.4.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafiomuerte-4.0.4.jar",
+      "sha256": "90722070bfb9eeef0fea3be0f4b343c0cdca25ebfa37f7a2ec4ab9a68dd143f9",
+      "size": 16833348
     },
     {
       "path": "mods/puzzleslib-v21.1.66-mc1.21.1+fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/puzzleslib-v21.1.66-mc1.21.1%2Bfabric.jar",
-      "sha256": "1a2a15f46bff3585ed2be60fb2bf46ff547187d8d5cc6c8f51fa4322802188ab"
+      "sha256": "1a2a15f46bff3585ed2be60fb2bf46ff547187d8d5cc6c8f51fa4322802188ab",
+      "size": 1507756
     },
     {
       "path": "mods/ruleta_sin_logo-1.0.5.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ruleta_sin_logo-1.0.5.jar",
-      "sha256": "aea12d00d3dc55622233f5666e6c8f530e61093d625022877e83b3639cd47593"
+      "sha256": "aea12d00d3dc55622233f5666e6c8f530e61093d625022877e83b3639cd47593",
+      "size": 1866
     },
     {
       "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
-      "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d"
+      "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
+      "size": 1574609
     },
     {
       "path": "mods/trashslot-fabric-1.21.1-21.1.11.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/trashslot-fabric-1.21.1-21.1.11.jar",
-      "sha256": "28b1ed22a2968e9d1b2760ef8dfeb2a95ab89036d13968182f4d8c326e3763fd"
+      "sha256": "28b1ed22a2968e9d1b2760ef8dfeb2a95ab89036d13968182f4d8c326e3763fd",
+      "size": 78842
     },
     {
       "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/txnilib-fabric-1.0.24-1.21.1.jar",
-      "sha256": "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3"
+      "sha256": "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3",
+      "size": 1303092
     },
     {
       "path": "mods/WorldWeaverRemastered-30.5.6.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/WorldWeaverRemastered-30.5.6.jar",
-      "sha256": "c9798c8dfb32c855630d54fa5428aff9d602b0587cae12ca5cfd12d5818381b3"
+      "sha256": "c9798c8dfb32c855630d54fa5428aff9d602b0587cae12ca5cfd12d5818381b3",
+      "size": 2392071
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
-      "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"
+      "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1",
+      "size": 1131265
     },
     {
       "path": "mods/YungsApi-1.21.1-Fabric-5.1.9.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/YungsApi-1.21.1-Fabric-5.1.9.jar",
-      "sha256": "cd935a9ba45a51bba370fdf77f83db7450cdc533664a4f3d24f2c56f7460f5f3"
+      "sha256": "cd935a9ba45a51bba370fdf77f83db7450cdc533664a4f3d24f2c56f7460f5f3",
+      "size": 1284146
     },
     {
       "path": "mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
-      "sha256": "69fe7d93afa1803d7658df3f861213f8255f68d4e976d66ddce66fba08d120bc"
+      "sha256": "69fe7d93afa1803d7658df3f861213f8255f68d4e976d66ddce66fba08d120bc",
+      "size": 909660
     },
     {
       "path": "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
-      "sha256": "27949f5bae0afeff457711a5b42482be301b76bc8b1136f1120f848489bb5fa6"
+      "sha256": "27949f5bae0afeff457711a5b42482be301b76bc8b1136f1120f848489bb5fa6",
+      "size": 615927
     }
   ]
 }

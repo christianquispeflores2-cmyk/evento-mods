@@ -136,6 +136,12 @@
       "size": 1507756
     },
     {
+      "path": "mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+      "sha256": "ccf5a4b585c41b9e629aedceb269e01b7488708f5440351e4a6862903dfe8ef4",
+      "size": 6965259
+    },
+    {
       "path": "mods/ruleta_sin_logo-1.0.5.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ruleta_sin_logo-1.0.5.jar",
       "sha256": "aea12d00d3dc55622233f5666e6c8f530e61093d625022877e83b3639cd47593",

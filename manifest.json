@@ -70,6 +70,12 @@
       "size": 9770655
     },
     {
+      "path": "mods/framework-fabric-1.21.1-0.13.11.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/framework-fabric-1.21.1-0.13.11.jar",
+      "sha256": "5d15360a4fffa8699562c700b5b0e97f0fd0b63006f0c1dbe2fec2b60022117d",
+      "size": 1647903
+    },
+    {
       "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/geckolib-fabric-1.21.1-4.9.3.jar",
       "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",

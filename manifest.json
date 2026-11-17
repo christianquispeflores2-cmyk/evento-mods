@@ -40,10 +40,10 @@
       "size": 1157166
     },
     {
-      "path": "mods/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/DEDsafio4FanByNavithLabs-1.4.0-1.21.1.jar",
-      "sha256": "2d27dfa73866ff6af7e302778738668509824c8f0a8b4b49ebd6f591ab7d5893",
-      "size": 283281384
+      "path": "mods/DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
+      "sha256": "0491f35b1cf4c91caef255c5f5428b6ff5f8bb60b60f26c304cd514ce0686e32",
+      "size": 322504991
     },
     {
       "path": "mods/entityculling-fabric-1.11.3-mc1.21.1.jar",
@@ -148,10 +148,10 @@
       "size": 6965259
     },
     {
-      "path": "mods/ruleta_sin_logo-1.0.5.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ruleta_sin_logo-1.0.5.jar",
-      "sha256": "aea12d00d3dc55622233f5666e6c8f530e61093d625022877e83b3639cd47593",
-      "size": 1866
+      "path": "mods/ruleta_sin_logo-2.0.0.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/ruleta_sin_logo-2.0.0.jar",
+      "sha256": "d6903cc6e557dde1098ea2c0cb802cff9144bf738671a4a0f29dfda40d58cf47",
+      "size": 2099
     },
     {
       "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",

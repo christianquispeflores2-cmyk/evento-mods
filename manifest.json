@@ -130,6 +130,12 @@
       "size": 758681
     },
     {
+      "path": "mods/prosafio3-window-1.0.0.jar",
+      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafio3-window-1.0.0.jar",
+      "sha256": "ca8d265080c2458ed1346d2e5670bbe749ebb6fd1d13839ac87302a567434bd8",
+      "size": 154333
+    },
+    {
       "path": "mods/prosafiomuerte-4.0.4.jar",
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/prosafiomuerte-4.0.4.jar",
       "sha256": "90722070bfb9eeef0fea3be0f4b343c0cdca25ebfa37f7a2ec4ab9a68dd143f9",
@@ -158,12 +164,6 @@
       "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
       "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
       "size": 1574609
-    },
-    {
-      "path": "mods/trashslot-fabric-1.21.1-21.1.11.jar",
-      "url": "https://github.com/christianquispeflores2-cmyk/evento-mods/releases/download/mods/trashslot-fabric-1.21.1-21.1.11.jar",
-      "sha256": "28b1ed22a2968e9d1b2760ef8dfeb2a95ab89036d13968182f4d8c326e3763fd",
-      "size": 78842
     },
     {
       "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar",
